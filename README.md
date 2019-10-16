@@ -15,3 +15,5 @@ References :
 UAlberta Bot (Thanks to Author : David Churchill)
 BWEM (Map Analyzer, Thanks to Author : Igor Dimitrijevic)
 SAIDA (Thanks to Author :Samsung Artificial Intelligence & Data Analytics)
+ 
+In addition: our bot is modified based on SAIDA, and the specific improvement points are described in detail in the uploaded PPT.
